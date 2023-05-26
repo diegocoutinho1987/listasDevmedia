@@ -1,0 +1,10 @@
+h1, h2 {
+    font-size: 22px;
+    font-family: roboto;
+}
+
+ol, ul {
+    font-size: 18px;
+    font-family: roboto;
+    line-height: 36px;
+}
